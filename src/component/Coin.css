@@ -1,0 +1,22 @@
+.coin_price {
+    text-decoration: none !important;
+}
+
+.coin_priceChange {
+    font-weight: 800;
+    text-decoration: none !important;
+}
+
+.coin {
+    width: 100%;
+}
+
+.deleteIcon {
+    display: none;
+    position: absolute;
+    right: -15px;
+}
+
+.coin:hover .deleteIcon {
+    display: block;
+}
